@@ -1,6 +1,5 @@
 import Head from "next/head";
 import Image from "next/image";
-import styles from "../styles/Home.module.css";
 import Layout from "../components/layout";
 
 export default function Home() {
@@ -11,7 +10,7 @@ export default function Home() {
         <meta name="description" content="오늘도 빡코딩!" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1>홈 입니다</h1>
+      <h1 className="text-3xl font-bold underline">홈 입니다</h1>
     </Layout>
   );
 }
