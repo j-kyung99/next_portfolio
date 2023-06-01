@@ -11,4 +11,4 @@
 - 🌙 다크 모드 지원
 
 ### 👇 완성 포트폴리오 사이트
-https://next-portfolio-mauve-tau.vercel.app/
+- https://next-portfolio-mauve-tau.vercel.app/
